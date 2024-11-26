@@ -1,8 +1,8 @@
 title: Michael Teixeira
-logo: "/images/picture.png?raw=true"
 description: |
   <div align="center">
-    <img src="{{ site.logo }}" alt="Michael Teixeira" style="max-width: 200px; border-radius: 50%; margin-bottom: 15px;">
+    <img src="/images/picture.png?raw=true" alt="Michael Teixeira" style="max-width: 200px; border-radius: 50%; margin-bottom: 15px;">
+    
     <p>
     <a href="pdf/resume.pdf">Resume</a> |
     <a href="https://www.linkedin.com/in/michael-teixeira-66298024a/">LinkedIn</a> |
