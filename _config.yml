@@ -1,6 +1,8 @@
 title: <p align="center"> Michael Teixeira </p>
 
-logo: "<div style='text-align: center;'><img src='/images/picture.png?raw=true' /></div>"
+logo: "<img src='/images/picture.png?raw=true' style='display: block; margin-left: auto; margin-right: auto; width: 200px;' />"
+
+
 
 description:
   <p align="center">
